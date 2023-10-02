@@ -119,8 +119,8 @@ nav a {
     background: #d62939;
 }
 ```
-2. h1 {...}: Ini adalah pendeklarasian CSS untuk elemen <h1>secara umum. Ini akan mempengaruhi semua elemen <h1>di halaman web, tidak peduli di mana mereka berada.
-intro h1 {...}: Ini adalah pendeklarasian CSS untuk elemen <h1>yang berada di dalam elemen dengan id "intro". Hal ini akan mempengaruhi elemen <h1>yang terdapat dalam elemen dengan id "intro" saja.
+2. h1 {...}: Ini adalah pendeklarasian CSS untuk elemen h1 secara umum. Ini akan mempengaruhi semua elemen h1 di halaman web, tidak peduli di mana mereka berada.
+intro h1 {...}: Ini adalah pendeklarasian CSS untuk elemen h1 yang berada di dalam elemen dengan id "intro". Hal ini akan mempengaruhi elemen h1 yang terdapat dalam elemen dengan id "intro" saja.
 3.  Inline CSS (Highest Priority) : Deklarasi CSS yang ada dalam atribut stylepada elemen HTML akan memiliki prioritas tertinggi dan akan ditampilkan.
 
 - CSS Internal : Deklarasi CSS yang ada di dalam tag <style>secara internal akan memiliki prioritas di bawah inline CSS dan di atas CSS eksternal.
